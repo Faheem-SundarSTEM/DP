@@ -1,3 +1,7 @@
+/*
+	Author  -->  Faheem khan 
+	Code for find maximum subarray sum ;
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
