@@ -1,3 +1,7 @@
+/*
+	Author Faheem khan.
+	Code for Coins sum   pr .
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
