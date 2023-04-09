@@ -1,3 +1,7 @@
+/*
+        Author ---> Faheem khan
+        Code for find number of longest common subsequences in strings .
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
